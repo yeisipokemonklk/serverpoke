@@ -1075,3 +1075,7 @@ java.lang.IllegalStateException: not found
 [06Aug2025 16:03:59.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Giuseppe_klk[/127.106.113.22:34229] logged in with entity id 52 at (991.5, 170.0, 1660.5)
 [06Aug2025 16:03:59.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk joined the game
 [06Aug2025 16:04:43.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk has made the advancement [The World of Cobblemon!]
+[06Aug2025 16:05:08.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set own game mode to Creative Mode]
+[06Aug2025 16:12:38.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[06Aug2025 16:13:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Teleported Giuseppe_klk to 997.500000, 179.102711, 3066.344179]
+[06Aug2025 16:13:41.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk fell out of the world
