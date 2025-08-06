@@ -3156,3 +3156,97 @@ java.lang.IllegalStateException: not found
 [06Aug2025 15:11:46.329] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [06Aug2025 15:11:46.330] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
 [06Aug2025 15:11:47.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Skin changed]
+[06Aug2025 15:12:16.379] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:12:16.380] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:12:16.380] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:12:24.199] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-36
+[06Aug2025 15:12:24.199] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-37
+[06Aug2025 15:12:43.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 15:12:43.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 15:12:46.429] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 15:12:46.430] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:12:46.430] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 15:13:16.479] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 15:13:16.480] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:13:16.480] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 15:13:29.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _hxntxx_ has made the advancement [What a Deal!]
+[06Aug2025 15:13:46.529] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 15:13:46.530] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:13:46.530] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 15:13:46.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Skin changed]
+[06Aug2025 15:13:47.894] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-38
+[06Aug2025 15:13:57.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Skin changed]
+[06Aug2025 15:14:16.579] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:14:16.580] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:14:16.580] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:14:46.629] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:14:46.630] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:14:46.630] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:15:16.679] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:15:16.680] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:15:16.680] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:15:22.001] [IO-Worker-34/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-39
+[06Aug2025 15:15:24.664] [Worker-Main-17/DEBUG] [mixin/]: Mixing StructurePoolGeneratorMixin from mixins.cobblemon-common.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Aug2025 15:15:25.765] [IO-Worker-39/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-40
+[06Aug2025 15:15:39.689] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[06Aug2025 15:15:39.731] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[06Aug2025 15:15:39.736] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[06Aug2025 15:15:46.729] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:15:46.730] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:15:46.732] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:15:52.463] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-41
+[06Aug2025 15:16:16.779] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:16:16.780] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:16:16.780] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:16:46.829] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[06Aug2025 15:16:46.830] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:16:46.832] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[06Aug2025 15:17:06.059] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-42
+[06Aug2025 15:17:06.073] [IO-Worker-41/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-43
+[06Aug2025 15:17:16.879] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:17:16.880] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:17:16.881] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:17:19.793] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d19ee533-94e1-45dc-a82e-e367cfd8b36a
+[06Aug2025 15:17:19.794] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d19ee533-94e1-45dc-a82e-e367cfd8b36a
+[06Aug2025 15:17:43.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Aug2025 15:17:43.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Aug2025 15:17:46.929] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[06Aug2025 15:17:46.930] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:17:46.931] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[06Aug2025 15:18:16.979] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:18:16.980] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:18:16.980] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:18:29.997] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-44
+[06Aug2025 15:18:47.029] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:18:47.030] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:18:47.031] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:19:17.079] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:19:17.080] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:19:17.080] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:19:47.129] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:19:47.130] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:19:47.130] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:19:53.912] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-45
+[06Aug2025 15:19:53.912] [IO-Worker-33/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-46
+[06Aug2025 15:20:17.179] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:20:17.180] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:20:17.180] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:20:37.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set the time to 1000]
+[06Aug2025 15:20:47.229] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:20:47.230] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:20:47.231] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:20:49.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set the weather to clear]
+[06Aug2025 15:21:03.392] [Server thread/DEBUG] [mixin/]: Mixing ai.pathing.FlyNodeEvaluatorMixin from canary.mixins.json into net.minecraft.world.level.pathfinder.FlyNodeEvaluator
+[06Aug2025 15:21:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk has made the advancement [Very Berry]
+[06Aug2025 15:21:03.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk has made the advancement [Mother Nature's Bounty]
+[06Aug2025 15:21:17.279] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:21:17.280] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:21:17.281] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[06Aug2025 15:21:38.825] [Worker-Main-16/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-16 shutdown
+[06Aug2025 15:21:38.825] [Worker-Main-8/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-8 shutdown
+[06Aug2025 15:21:40.652] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-47
+[06Aug2025 15:21:40.653] [IO-Worker-43/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-48
+[06Aug2025 15:21:40.653] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[06Aug2025 15:21:47.329] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[06Aug2025 15:21:47.330] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 15:21:47.331] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.

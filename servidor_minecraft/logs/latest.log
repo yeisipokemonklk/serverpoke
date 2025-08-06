@@ -925,3 +925,15 @@ java.lang.IllegalStateException: not found
 [06Aug2025 15:11:16.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk has made the advancement [Monster Hunter]
 [06Aug2025 15:11:19.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set the time to 1000]
 [06Aug2025 15:11:47.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Skin changed]
+[06Aug2025 15:13:29.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _hxntxx_ has made the advancement [What a Deal!]
+[06Aug2025 15:13:46.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Skin changed]
+[06Aug2025 15:13:57.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Skin changed]
+[06Aug2025 15:15:39.689] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[06Aug2025 15:15:39.731] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[06Aug2025 15:15:39.736] [Worker-Main-17/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[06Aug2025 15:17:19.793] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d19ee533-94e1-45dc-a82e-e367cfd8b36a
+[06Aug2025 15:17:19.794] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d19ee533-94e1-45dc-a82e-e367cfd8b36a
+[06Aug2025 15:20:37.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set the time to 1000]
+[06Aug2025 15:20:49.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set the weather to clear]
+[06Aug2025 15:21:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk has made the advancement [Very Berry]
+[06Aug2025 15:21:03.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk has made the advancement [Mother Nature's Bounty]
