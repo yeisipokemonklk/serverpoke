@@ -1079,3 +1079,5 @@ java.lang.IllegalStateException: not found
 [06Aug2025 16:12:38.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
 [06Aug2025 16:13:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Teleported Giuseppe_klk to 997.500000, 179.102711, 3066.344179]
 [06Aug2025 16:13:41.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk fell out of the world
+[06Aug2025 16:15:37.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giuseppe_klk lost connection: Disconnected
+[06Aug2025 16:15:37.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk left the game
