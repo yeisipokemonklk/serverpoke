@@ -937,3 +937,10 @@ java.lang.IllegalStateException: not found
 [06Aug2025 15:20:49.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set the weather to clear]
 [06Aug2025 15:21:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk has made the advancement [Very Berry]
 [06Aug2025 15:21:03.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk has made the advancement [Mother Nature's Bounty]
+[06Aug2025 15:26:53.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Teleported Giuseppe_klk to -521.500000, 117.500000, -1079.500000]
+[06Aug2025 15:30:34.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set the time to 1000]
+[06Aug2025 15:38:47.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Aug2025 15:38:47.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[06Aug2025 15:40:28.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Giuseppe_klk: Set the time to 1000]
+[06Aug2025 15:40:32.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giuseppe_klk lost connection: Disconnected
+[06Aug2025 15:40:32.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk left the game
