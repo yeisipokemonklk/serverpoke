@@ -3,7 +3,7 @@
   "starterPrompted": true,
   "starterLocked": false,
   "starterSelected": true,
-  "starterUUID": "0aeeaa6b-81de-48c0-80a7-343c95b299ec",
+  "starterUUID": "369aba38-d790-4a1f-a12b-9435b19b64cc",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
@@ -11,16 +11,14 @@
     "totalCaptureCount": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 1,
+    "totalBattleVictoryCount": 0,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 0,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {},
-    "totalDefeatedCounts": {
-      "cobblemon:slowpoke": 1
-    },
+    "totalDefeatedCounts": {},
     "aspectsCollected": {}
   }
 }
