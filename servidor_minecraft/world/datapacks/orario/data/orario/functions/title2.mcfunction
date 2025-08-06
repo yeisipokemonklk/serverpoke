@@ -1,2 +1,0 @@
-title @a title "Download the FULL map"
-title @a subtitle [{"text":"at "},{"text":"store.varunabuilds.com","color":"green","bold":true,"underlined":true,"clickEvent":{"action":"open_url","value":"https://store.varunabuilds.com"}},{"text":", today!"}]

@@ -1,0 +1,15 @@
+{
+  "configVersion": 3,
+  "debugMode": false,
+  "enabled": true,
+  "activeProfileName": "Controls",
+  "latestKnownVersion": "4.0.0-beta.9",
+  "profiles": [
+    {
+      "name": "Controls",
+      "key": "key.keyboard.unknown",
+      "cycle": true
+    }
+  ],
+  "toggleBinds": []
+}

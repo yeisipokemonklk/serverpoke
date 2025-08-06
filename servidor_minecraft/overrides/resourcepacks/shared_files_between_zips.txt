@@ -1,0 +1,103 @@
+AlphabetSoup-v2.2.zip and ATM 2.2 for MEGASHOWDOWN v9.0.0.zip share 16 file(s):
+  - assets/cobblemon/bedrock/pokemon/resolvers/0201_unown/0_unown_base.json
+  - assets/cobblemon/bedrock/pokemon/resolvers/0201_unown/1_unown_letters.json
+  - assets/cobblemon/textures/pokemon/0201_unown/unown.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_emissive.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_ender.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_ender_emissive.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_ender_punctuation.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_ender_punctuation_emissive.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_ender_punctuation_shiny.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_ender_punctuation_shiny_emissive.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_ender_shiny.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_ender_shiny_emissive.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_punctuation.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_punctuation_emissive.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_punctuation_shiny.png
+  - assets/cobblemon/textures/pokemon/0201_unown/unown_shiny.png
+
+ATM 2.2 for MEGASHOWDOWN v9.0.0.zip and MYSTICMONS for Megashowdown v8.2.4.zip share 4 file(s):
+  - assets/cobblemon/lang/en_us.json
+  - assets/cobblemon/textures/pokemon/0799_guzzlord/guzzlord.png
+  - assets/cobblemon/textures/pokemon/0799_guzzlord/guzzlord_emissive.png
+  - assets/cobblemon/textures/pokemon/0799_guzzlord/guzzlord_shiny.png
+
+Background.zip and Cobblemon Interface v1.4.0.zip share 6 file(s):
+  - assets/minecraft/textures/gui/title/background/panorama_0.png
+  - assets/minecraft/textures/gui/title/background/panorama_1.png
+  - assets/minecraft/textures/gui/title/background/panorama_2.png
+  - assets/minecraft/textures/gui/title/background/panorama_3.png
+  - assets/minecraft/textures/gui/title/background/panorama_4.png
+  - assets/minecraft/textures/gui/title/background/panorama_5.png
+
+CobbleFolk Cobbledollars Replacer.zip and CobbleFolk Skin Pack (for 1.6).zip share 2 file(s):
+  - assets/cobbledollars/textures/entity/villager/profession/cobble_merchant.png
+  - assets/cobbledollars/textures/entity/villager/profession/cobble_merchant.png.mcmeta
+
+CobbleFolk Skin Pack (for 1.6).zip and CobbleSounds[Complete]_v1.3.5.zip share 1 file(s):
+  - assets/minecraft/sounds.json
+
+CobbleFolk Skin Pack (for 1.6).zip and FreshAnimations_v1.9.2.zip share 19 file(s):
+  - assets/minecraft/optifine/cem/evoker.jem
+  - assets/minecraft/optifine/cem/illusioner.jem
+  - assets/minecraft/optifine/cem/pillager.jem
+  - assets/minecraft/optifine/cem/villager.jem
+  - assets/minecraft/optifine/cem/wandering_trader.jem
+  - assets/minecraft/optifine/cem/witch.jem
+  - assets/minecraft/optifine/cem/zombie_villager.jem
+  - assets/minecraft/textures/entity/illager/evoker.png
+  - assets/minecraft/textures/entity/illager/illusioner.png
+  - assets/minecraft/textures/entity/illager/pillager.png
+  - assets/minecraft/textures/entity/illager/vindicator.png
+  - assets/minecraft/textures/entity/villager/profession/weaponsmith.png
+  - assets/minecraft/textures/entity/villager/type/desert.png
+  - assets/minecraft/textures/entity/villager/villager.png
+  - assets/minecraft/textures/entity/wandering_trader.png
+  - assets/minecraft/textures/entity/witch.png
+  - assets/minecraft/textures/entity/zombie_villager/profession/weaponsmith.png
+  - assets/minecraft/textures/entity/zombie_villager/type/desert.png
+  - assets/minecraft/textures/entity/zombie_villager/zombie_villager.png
+
+Cobblemon Interface Modded v1.7.0.zip and Cobblemon Interface v1.4.0.zip share 5 file(s):
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - LICENSE.md
+  - README.md
+  - assets/minecraft/textures/gui/container/inventory.png
+
+Cobblemon Interface Modded v1.7.0.zip and CobbleSounds[Complete]_v1.3.5.zip share 1 file(s):
+  - assets/advancementplaques/sounds/ui/toast/goal_complete.ogg
+
+Cobblemon Interface v1.4.0.zip and CobbleSounds[Complete]_v1.3.5.zip share 2 file(s):
+  - assets/minecraft/sounds/random/levelup.ogg
+  - assets/minecraft/sounds/ui/toast/challenge_complete.ogg
+
+RCT Trainers+ [1.6] v2.0.zip and Terry to Blue.zip share 28 file(s):
+  - assets/rctmod/textures/trainers/default.png
+  - assets/rctmod/textures/trainers/single/champion_terry_01b6.png
+  - assets/rctmod/textures/trainers/single/champion_terry_01b7.png
+  - assets/rctmod/textures/trainers/single/champion_terry_01b8.png
+  - assets/rctmod/textures/trainers/single/champion_terry_02e3.png
+  - assets/rctmod/textures/trainers/single/champion_terry_02e4.png
+  - assets/rctmod/textures/trainers/single/champion_terry_02e5.png
+  - assets/rctmod/textures/trainers/single/rival_terry_0146.png
+  - assets/rctmod/textures/trainers/single/rival_terry_0147.png
+  - assets/rctmod/textures/trainers/single/rival_terry_0148.png
+  - assets/rctmod/textures/trainers/single/rival_terry_0149.png
+  - assets/rctmod/textures/trainers/single/rival_terry_014a.png
+  - assets/rctmod/textures/trainers/single/rival_terry_014b.png
+  - assets/rctmod/textures/trainers/single/rival_terry_014c.png
+  - assets/rctmod/textures/trainers/single/rival_terry_014d.png
+  - assets/rctmod/textures/trainers/single/rival_terry_014e.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01aa.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01ab.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01ac.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01ad.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01ae.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01af.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01b0.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01b1.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01b2.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01b3.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01b4.png
+  - assets/rctmod/textures/trainers/single/rival_terry_01b5.png

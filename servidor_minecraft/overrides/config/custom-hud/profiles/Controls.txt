@@ -1,0 +1,6 @@
+==BackgroundColor:#00==
+==Scale:0.8==
+
+==Section:BottomRight==
+
+Ⓙ Map 🗺    Ⓡ Use Pokemon 🐾    Ⓜ Party 🎮   &{90FFFFFF}Ⓧ ⏬  

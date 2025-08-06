@@ -1,0 +1,22 @@
+{
+    "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -4,
+                "bottom": -93
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -18
+            },
+            "SORT": {
+                "top": -18
+            },
+            "SORT_COLUMNS": {
+                "top": -18
+            },
+            "SORT_ROWS": {
+                "top": -18
+            }
+        }
+    }
+}

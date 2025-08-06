@@ -1,0 +1,236 @@
+{
+  "bank": [
+    {
+      "item": "cobblemon:great_ball",
+      "price": 60
+    },
+    {
+      "item": "cobblemon:heal_ball",
+      "price": 30
+    },
+    {
+      "item": "cobblemon:nest_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:net_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:dusk_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:quick_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:timer_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:repeat_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:luxury_ball",
+      "price": 100
+    },
+    {
+      "item": "cobblemon:poke_ball",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:ultra_ball",
+      "price": 120
+    },
+    {
+      "item": "cobblemon:potion",
+      "price": 30
+    },
+    {
+      "item": "cobblemon:super_potion",
+      "price": 70
+    },
+    {
+      "item": "cobblemon:hyper_potion",
+      "price": 120
+    },
+    {
+      "item": "cobblemon:max_potion",
+      "price": 250
+    },
+    {
+      "item": "cobblemon:full_restore",
+      "price": 300
+    },
+    {
+      "item": "cobblemon:revive",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:antidote",
+      "price": 10
+    },
+    {
+      "item": "cobblemon:awakening",
+      "price": 25
+    },
+    {
+      "item": "cobblemon:burn_heal",
+      "price": 25
+    },
+    {
+      "item": "cobblemon:ice_heal",
+      "price": 25
+    },
+    {
+      "item": "cobblemon:paralyze_heal",
+      "price": 20
+    },
+    {
+      "item": "cobblemon:full_heal",
+      "price": 60
+    },
+    {
+      "item": "cobblemonrepel:repel",
+      "price": 35
+    },
+    {
+      "item": "cobblemonrepel:super_repel",
+      "price": 50
+    },
+    {
+      "item": "cobblemonrepel:max_repel",
+      "price": 70
+    },
+    {
+      "item": "cobblemon:protein",
+      "price": 980
+    },
+    {
+      "item": "cobblemon:iron",
+      "price": 980
+    },
+    {
+      "item": "cobblemon:carbos",
+      "price": 980
+    },
+    {
+      "item": "cobblemon:zinc",
+      "price": 980
+    },
+    {
+      "item": "cobblemon:calcium",
+      "price": 980
+    },
+    {
+      "item": "cobblemon:hp_up",
+      "price": 980
+    },
+    {
+      "item": "cobblemon:fire_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:water_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:thunder_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:leaf_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:moon_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:sun_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:shiny_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:dusk_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:dawn_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:ice_stone",
+      "price": 210
+    },
+    {
+      "item": "cobblemon:revival_herb",
+      "price": 280
+    },
+    {
+      "item": "cobblemon:energy_root",
+      "price": 120
+    },
+    {
+      "item": "cobblemon:heal_powder",
+      "price": 45
+    },
+    {
+      "item": "cobblemon:x_accuracy",
+      "price": 95
+    },
+    {
+      "item": "cobblemon:x_attack",
+      "price": 50
+    },
+    {
+      "item": "cobblemon:x_defence",
+      "price": 55
+    },
+    {
+      "item": "cobblemon:x_special_attack",
+      "price": 35
+    },
+    {
+      "item": "cobblemon:x_special_defence",
+      "price": 35
+    },
+    {
+      "item": "cobblemon:x_speed",
+      "price": 35
+    },
+    {
+      "item": "cobblemon:dire_hit",
+      "price": 65
+    },
+    {
+      "item": "cobblemon:guard_spec",
+      "price": 70
+    },
+    {
+      "item": "cobblemon:cheri_berry",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:chesto_berry",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:pecha_berry",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:rawst_berry",
+      "price": 150
+    },
+    {
+      "item": "cobblemon:aspear_berry",
+      "price": 150
+    }
+  ]
+}
