@@ -3261,3 +3261,52 @@ java.lang.IllegalStateException: not found
 [06Aug2025 16:35:11.666] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [06Aug2025 16:35:11.667] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [06Aug2025 16:35:11.667] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:35:37.718] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-49
+[06Aug2025 16:35:37.718] [IO-Worker-49/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-50
+[06Aug2025 16:35:37.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DIVINOS 3.0 - Freebie
+[06Aug2025 16:35:37.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DIVINOS 3.0 - Freebie
+[06Aug2025 16:35:37.739] [IO-Worker-50/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-51
+[06Aug2025 16:35:41.716] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 16:35:41.716] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 16:35:41.717] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:36:11.766] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 16:36:11.767] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 16:36:11.767] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:36:41.816] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 16:36:41.816] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 16:36:41.817] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:37:11.866] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 16:37:11.867] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 16:37:11.867] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:37:41.916] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 16:37:41.917] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 16:37:41.917] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:38:11.966] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 16:38:11.966] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 16:38:11.967] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:38:42.016] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 16:38:42.017] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 16:38:42.017] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:38:46.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Aug2025 16:38:46.317] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[06Aug2025 16:38:46.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Aug2025 16:38:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Aug2025 16:38:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Aug2025 16:38:46.327] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized Worker-Main-52
+[06Aug2025 16:38:46.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIVINOS 3.0 - Freebie]'/minecraft:overworld
+[06Aug2025 16:38:46.343] [Server thread/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-53
+[06Aug2025 16:38:46.344] [IO-Worker-53/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-54
+[06Aug2025 16:38:46.353] [IO-Worker-54/DEBUG] [Smooth Boot (Reloaded)/]: Initialized IO-Worker-55
+[06Aug2025 16:38:46.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIVINOS 3.0 - Freebie]'/minecraft:the_end
+[06Aug2025 16:38:46.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIVINOS 3.0 - Freebie]'/minecraft:the_nether
+[06Aug2025 16:38:46.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DIVINOS 3.0 - Freebie
+[06Aug2025 16:38:46.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DIVINOS 3.0 - Freebie
+[06Aug2025 16:38:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Aug2025 16:38:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Aug2025 16:38:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Aug2025 16:38:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Aug2025 16:38:46.405] [Worker-Main-52/DEBUG] [Smooth Boot (Reloaded)/]: Worker-Main-52 shutdown
+[06Aug2025 16:38:46.407] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[06Aug2025 16:38:46.407] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[06Aug2025 16:38:46.407] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[06Aug2025 16:38:46.407] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

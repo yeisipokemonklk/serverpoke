@@ -1081,3 +1081,15 @@ java.lang.IllegalStateException: not found
 [06Aug2025 16:13:41.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk fell out of the world
 [06Aug2025 16:15:37.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Giuseppe_klk lost connection: Disconnected
 [06Aug2025 16:15:37.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Giuseppe_klk left the game
+[06Aug2025 16:38:46.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[06Aug2025 16:38:46.317] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[06Aug2025 16:38:46.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Aug2025 16:38:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Aug2025 16:38:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Aug2025 16:38:46.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIVINOS 3.0 - Freebie]'/minecraft:overworld
+[06Aug2025 16:38:46.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIVINOS 3.0 - Freebie]'/minecraft:the_end
+[06Aug2025 16:38:46.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIVINOS 3.0 - Freebie]'/minecraft:the_nether
+[06Aug2025 16:38:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Aug2025 16:38:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Aug2025 16:38:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Aug2025 16:38:46.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
